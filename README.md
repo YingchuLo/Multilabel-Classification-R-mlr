@@ -6,7 +6,6 @@ Package: mlr,OpenML,farff,readr
 Dataset: scene
          - X(numerical): variable 1 ~ 294
          - Y(6labels): "Beach", "Sunset", "FallFoliage", "Field", "Mountain", "Urban"
-
 <br></br>
 Fun fact: Use predicted labels as features for other labels
 <br></br>
