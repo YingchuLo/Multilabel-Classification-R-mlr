@@ -1,15 +1,15 @@
 # Multilabel Classification
-R language
+### R language
 <br></br>
-Package: mlr,OpenML,farff,readr
+### Package: mlr,OpenML,farff,readr
 <br></br>
-Dataset: scene
+### Dataset: scene
 <br></br>
          - X(numerical): variable 1 ~ 294
 <br></br>
          - Y(6labels): "Beach", "Sunset", "FallFoliage", "Field", "Mountain", "Urban"
 <br></br>
-Fun fact: Use predicted labels as features for other labels
+### Fun fact: Use predicted labels as features for other labels
 <br></br>
 Take a multilabel classification as an example.
 <br></br>
