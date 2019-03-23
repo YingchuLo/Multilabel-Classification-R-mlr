@@ -4,7 +4,9 @@ R language
 Package: mlr,OpenML,farff,readr
 <br></br>
 Dataset: scene
+<br></br>
          - X(numerical): variable 1 ~ 294
+<br></br>
          - Y(6labels): "Beach", "Sunset", "FallFoliage", "Field", "Mountain", "Urban"
 <br></br>
 Fun fact: Use predicted labels as features for other labels
